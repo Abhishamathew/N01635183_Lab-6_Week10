@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\N01635183_Lab-6_Week10\\WinForms.Inventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32FB508B-C170-4752-BF6F-0A52C521C9BA}|WinForms.Inventory\\WinForms.Inventory.csproj|c:\\n01635183_lab-6_week10\\winforms.inventory\\winforms.inventory\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FB508B-C170-4752-BF6F-0A52C521C9BA}|WinForms.Inventory\\WinForms.Inventory.csproj|solutionrelative:winforms.inventory\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FB508B-C170-4752-BF6F-0A52C521C9BA}|WinForms.Inventory\\WinForms.Inventory.csproj|C:\\N01635183_Lab-6_Week10\\WinForms.Inventory\\winforms.inventory\\addinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FB508B-C170-4752-BF6F-0A52C521C9BA}|WinForms.Inventory\\WinForms.Inventory.csproj|solutionrelative:winforms.inventory\\addinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FB508B-C170-4752-BF6F-0A52C521C9BA}|WinForms.Inventory\\WinForms.Inventory.csproj|C:\\N01635183_Lab-6_Week10\\WinForms.Inventory\\winforms.inventory\\inventorydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FB508B-C170-4752-BF6F-0A52C521C9BA}|WinForms.Inventory\\WinForms.Inventory.csproj|solutionrelative:winforms.inventory\\inventorydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FB508B-C170-4752-BF6F-0A52C521C9BA}|WinForms.Inventory\\WinForms.Inventory.csproj|C:\\N01635183_Lab-6_Week10\\WinForms.Inventory\\winforms.inventory\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FB508B-C170-4752-BF6F-0A52C521C9BA}|WinForms.Inventory\\WinForms.Inventory.csproj|solutionrelative:winforms.inventory\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FB508B-C170-4752-BF6F-0A52C521C9BA}|WinForms.Inventory\\WinForms.Inventory.csproj|C:\\N01635183_Lab-6_Week10\\WinForms.Inventory\\winforms.inventory\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32FB508B-C170-4752-BF6F-0A52C521C9BA}|WinForms.Inventory\\WinForms.Inventory.csproj|solutionrelative:winforms.inventory\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FB508B-C170-4752-BF6F-0A52C521C9BA}|WinForms.Inventory\\WinForms.Inventory.csproj|C:\\N01635183_Lab-6_Week10\\WinForms.Inventory\\winforms.inventory\\grocery_inventory_items.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{32FB508B-C170-4752-BF6F-0A52C521C9BA}|WinForms.Inventory\\WinForms.Inventory.csproj|solutionrelative:winforms.inventory\\grocery_inventory_items.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FB508B-C170-4752-BF6F-0A52C521C9BA}|WinForms.Inventory\\WinForms.Inventory.csproj|C:\\N01635183_Lab-6_Week10\\WinForms.Inventory\\winforms.inventory\\addinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32FB508B-C170-4752-BF6F-0A52C521C9BA}|WinForms.Inventory\\WinForms.Inventory.csproj|solutionrelative:winforms.inventory\\addinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "grocery_inventory_items.txt",
+              "DocumentMoniker": "C:\\N01635183_Lab-6_Week10\\WinForms.Inventory\\WinForms.Inventory\\grocery_inventory_items.txt",
+              "RelativeDocumentMoniker": "WinForms.Inventory\\grocery_inventory_items.txt",
+              "ToolTip": "C:\\N01635183_Lab-6_Week10\\WinForms.Inventory\\WinForms.Inventory\\grocery_inventory_items.txt",
+              "RelativeToolTip": "WinForms.Inventory\\grocery_inventory_items.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-20T22:18:19.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventoryDB.cs",
+              "DocumentMoniker": "C:\\N01635183_Lab-6_Week10\\WinForms.Inventory\\WinForms.Inventory\\InventoryDB.cs",
+              "RelativeDocumentMoniker": "WinForms.Inventory\\InventoryDB.cs",
+              "ToolTip": "C:\\N01635183_Lab-6_Week10\\WinForms.Inventory\\WinForms.Inventory\\InventoryDB.cs",
+              "RelativeToolTip": "WinForms.Inventory\\InventoryDB.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T22:09:27.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddInventory.cs",
+              "DocumentMoniker": "C:\\N01635183_Lab-6_Week10\\WinForms.Inventory\\WinForms.Inventory\\AddInventory.cs",
+              "RelativeDocumentMoniker": "WinForms.Inventory\\AddInventory.cs",
+              "ToolTip": "C:\\N01635183_Lab-6_Week10\\WinForms.Inventory\\WinForms.Inventory\\AddInventory.cs",
+              "RelativeToolTip": "WinForms.Inventory\\AddInventory.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T22:20:38.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventoryItem.cs",
+              "DocumentMoniker": "C:\\N01635183_Lab-6_Week10\\WinForms.Inventory\\WinForms.Inventory\\InventoryItem.cs",
+              "RelativeDocumentMoniker": "WinForms.Inventory\\InventoryItem.cs",
+              "ToolTip": "C:\\N01635183_Lab-6_Week10\\WinForms.Inventory\\WinForms.Inventory\\InventoryItem.cs",
+              "RelativeToolTip": "WinForms.Inventory\\InventoryItem.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T22:16:07.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\N01635183_Lab-6_Week10\\WinForms.Inventory\\WinForms.Inventory\\Form1.cs",
+              "RelativeDocumentMoniker": "WinForms.Inventory\\Form1.cs",
+              "ToolTip": "C:\\N01635183_Lab-6_Week10\\WinForms.Inventory\\WinForms.Inventory\\Form1.cs",
+              "RelativeToolTip": "WinForms.Inventory\\Form1.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T22:08:42.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\N01635183_Lab-6_Week10\\WinForms.Inventory\\WinForms.Inventory\\Form1.cs",
+              "RelativeDocumentMoniker": "WinForms.Inventory\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WinForms.Inventory\\WinForms.Inventory\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\Users\\HP\\source\\repos\\WinForms.Inventory\\WinForms.Inventory\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T21:58:20.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddInventory.cs [Design]",
+              "DocumentMoniker": "C:\\N01635183_Lab-6_Week10\\WinForms.Inventory\\WinForms.Inventory\\AddInventory.cs",
+              "RelativeDocumentMoniker": "WinForms.Inventory\\AddInventory.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WinForms.Inventory\\WinForms.Inventory\\AddInventory.cs [Design]",
+              "RelativeToolTip": "..\\..\\Users\\HP\\source\\repos\\WinForms.Inventory\\WinForms.Inventory\\AddInventory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T22:04:04.914Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
